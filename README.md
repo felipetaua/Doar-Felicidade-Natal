@@ -3,6 +3,8 @@
 
 Este projeto é um site de doação temático de Natal que combina design festivo, acessibilidade e funcionalidades simples para transmitir o espírito natalino. Criado com **HTML**, **CSS** e **JavaScript**, é perfeito para incentivar doações e compartilhar mensagens de alegria e solidariedade.
 
+[![Live Server](https://img.shields.io/badge/Live_Server-Click_Here-brightgreen?style=for-the-badge)](https://felipetaua.github.io/Natal-Solidario/)
+
 ## 📝 Descrição do Projeto
 O site "Feliz Natal" oferece:  
 - Uma interface amigável e interativa.  
