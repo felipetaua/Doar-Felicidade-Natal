@@ -56,4 +56,3 @@ O site foi projetado para se adaptar a diferentes tamanhos de tela, garantindo u
 
 ## 📜 Licença
 Este projeto é de código aberto e está disponível sob a licença [MIT](LICENSE).
-```
